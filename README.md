@@ -1,6 +1,7 @@
 APLORE TERMUX TOOLKIT - Repository README.md
 markdown
 <p align="center">
+  <img src ="https://aplore.asenass.com/aplore-red-logo.jpg-%23e6005c?style=for-the-badge" alt="aplore">
   <img src="https://img.shields.io/badge/Platform-Termux-%2334A853?style=for-the-badge&logo=android" alt="Platform">
   <img src="https://img.shields.io/badge/License-MIT-%23e6005c?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Status-ACTIVE-%23FF6B00?style=for-the-badge" alt="Status">
@@ -10,7 +11,7 @@ markdown
   <br>
   <img src="https://raw.githubusercontent.com/aplore/termux-toolkit/main/.github/logo.png" alt="APLORE Termux Toolkit" width="200">
   <br>
-  APLORE TERMUX TOOLKIT
+ 
   <br>
 </h1>
 
@@ -93,9 +94,9 @@ You are not hacking alone. The Aplore community is here for you.
 
 🔗 Official Channels:
 
-Discord: Join #cybersecurity-general on our Aplore Server
+Discord: https://discord.gg/tPe8fqXFN
 
-Telegram: Aplore Cyber Group
+Telegram: https://t.me/+9KpyyAVNV0E4N2I0
 
 Email: aploreofficial@yahoo.com
 
@@ -107,4 +108,4 @@ Email: aploreofficial@yahoo.com
 Distributed under the MIT License. See the LICENSE file for details.
 By the Community, for the Community.
 
-<p align="center"> <strong>MASTER THE TOOLS. HONOR THE PLEDGE. SECURE THE FUTURE.</strong> <br> <sub>© 2024 APLORE | Building Africa's Next Generation of Ethical Hackers</sub> </p> ```
+
