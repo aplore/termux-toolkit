@@ -3,7 +3,6 @@ markdown
 <p align="center">
   
   <img src="https://img.shields.io/badge/Platform-Termux-%2334A853?style=for-the-badge&logo=android" alt="Platform">
-  <img src ="https://aplore.asenass.com/aplore-red-logo.jpg-%23e6005c?style=for-the-badge" alt="aplore">
   <img src="https://img.shields.io/badge/License-MIT-%23e6005c?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Status-ACTIVE-%23FF6B00?style=for-the-badge" alt="Status">
 </p>
